@@ -11,6 +11,6 @@
 
 #MCTS回溯的机制是递归    
 
-#HER（Hindsight Experience Replay）：如果当时的目标是达到实际达到的状态，那么这次经历实际上是可以得到奖励的
+#HER（Hindsight Experience Replay）：如果当时的目标是达到实际达到的最终状态或中间某状态，那么这次经历实际上是可以得到奖励的
 
 
